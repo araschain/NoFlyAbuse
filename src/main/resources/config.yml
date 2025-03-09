@@ -1,0 +1,5 @@
+allowed-flight-perms:
+  - tempfly.toggle.self
+  - tempfly.infinite
+  - essentials.fly
+  - vip.fly
